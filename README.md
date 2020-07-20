@@ -7,7 +7,8 @@
 Список необязательных технологий  (но что-то использовать желательно): Redis/Memcached,rabbitmq, ElasticSearch/sphinx.
 
 Пример Json-a :
-```{
+```
+{
 "firstName": "Иван",
 "lastName": "Иванов",
 "phoneNumbers": [
